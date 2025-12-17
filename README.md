@@ -21,6 +21,22 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ryder-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+
+### testinmg starts
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryder-07&show_icons=true&locale=en&layout=compact" alt="ryder-07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryder-07&show_icons=true&locale=en" alt="ryder-07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryder-07&" alt="ryder-07" /></p>
+
+
+
+### testing wnds
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ryder-07&icon=9&color=0)](https://visitcount.itsvg.in)
 
