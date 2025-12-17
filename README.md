@@ -14,11 +14,16 @@
 
 ## Holopin Badges
 [![An image of @rudraps07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudraps07)](https://holopin.io/@rudraps07)
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryder-07&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryder-07&theme=radical" />
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ryder-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
